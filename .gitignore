@@ -1,0 +1,23 @@
+# Credentials / Data
+credentials.csv
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Selenium screenshots
+*.png
+failed_post.html
+
+# IDEs and OS files
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,5 @@
+Here are the steps to run the bot:
+
+1. Open credentials.csv and add your account details.
+2. Install the required libraries by running: pip install -r requirements.txt
+3. Run the bot: python instabot.py
